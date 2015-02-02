@@ -1,4 +1,4 @@
-﻿package jp.co.staffnet.html5.game;
+package jp.co.staffnet.html5.game;
 
 import java.io.IOException;
 import java.util.List;
@@ -25,7 +25,7 @@ public class RankingServlet extends HttpServlet {
 			HttpServletResponse resp)
 			throws ServletException, IOException {
 
-		//ここにプログラムを記述1
+		//ここにプログラムを記述
 
 	}
 
